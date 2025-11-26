@@ -1,3 +1,5 @@
+name: Maven CI
+ 
 on:
   push:
     branches:
