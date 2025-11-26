@@ -50,4 +50,3 @@ jobs:
             target/site/jacoco/jacoco.xml
             target/checkstyle-result.xml
             target/pmd.xml
-            
